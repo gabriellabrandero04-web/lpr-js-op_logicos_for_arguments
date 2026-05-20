@@ -176,7 +176,7 @@ function obtenerAreaRectangulo(alto, ancho) {
   // Tu código:
   return alto * ancho;
 }
-
+//esto no lo entendi
 
 // No modificar nada debajo de esta línea
 // --------------------------------
